@@ -8,17 +8,33 @@
 ## Index
 
 * [Matlab-Topics](#Matlab-Topics)
-    * [Matlab-Syntax-And-Semantics](#Matlab-Syntax-And-Semantics)
-    * [User-Defined-Primitives](#User-Defined-Primitives)
-    * [Matlab-Operators](#Matlab-Operators)
-    * [Procedural-Timing-Control](#Procedural-Timing-Control)
-    * [Task-And-Functions](#Task-And-Functions)
-    * [System-Task-And-Function](#System-Task-And-Function)
-    * [Writing-TestBenches](#Writing-TestBenches)
-    * [Modeling-Memories-And-FSM](#Modeling-Memories-And-FSM)
-    * [Parameterized-Modules](#Parameterized-Modules)
-    * [Compiler-Directives](#Compiler-Directives)
-    
+
+    * [Syntax](#Syntax)
+    * [Variables](#Variables)
+    * [Commands](#Commands)
+    * [M-Files](#M-Files)
+    * [Data-Types](#Data-Types)
+    * [Operators](#Operators)
+    * [Decisions](#Decisions)
+    * [Loops](#Loops)
+    * [Vectors](#Vectors)
+    * [Matrix](#Matrix)
+    * [Arrays](#Arrays)
+    * [Colon-Notation](#Colon-Notation)
+    * [Numbers](#Numbers)
+    * [Strings](#Strings)
+    * [Functions](#Functions)
+    * [Data-Import](#Data-Import)
+    * [Data-Output](#Data-Output)
+    * [Plotting](#Plotting)
+    * [Graphics](#Graphics)
+    * [Algebra](#Algebra)
+    * [Calculus](#Calculus)
+    * [Differential](#Differential)
+    * [Integration](#Integration)
+    * [Polynomials](#Polynomials)
+    * [Transforms](#Transforms)
+    * [Simulink](#Simulink)
     
 * [Matlab-Mini-Projects](#Matlab-Mini-Projects)
 
@@ -41,16 +57,33 @@
 * [License](#License)
 
 ## Matlab-Topics
-### Matlab-Syntax-And-Semantics
-### User-Defined-Primitives
-### Matlab-Operators
-### Procedural-Timing-Control
-### Task-And-Functions
-### System-Task-And-Function
-### Writing-TestBenches
-### Modeling-Memories-And-FSM
-### Parameterized-Modules
-### Compiler-Directives
+
+### Syntax
+### Variables
+### Commands
+### M-Files
+### Data-Types
+### Operators
+### Decisions
+### Loops
+### Vectors
+### Matrix
+### Arrays
+### Colon-Notation
+### Numbers
+### Strings
+### Functions
+### Data-Import
+### Data-Output
+### Plotting
+### Graphics
+### Algebra
+### Calculus
+### Differential
+### Integration
+### Polynomials
+### Transforms
+### Simulink
     
 ## Matlab-Mini-Projects
 
