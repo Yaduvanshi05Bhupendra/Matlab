@@ -91,7 +91,7 @@
 #### Course Overview
 
 Familiarize yourself with the course.
-> Course Overview
+> **Course Overview**
 
 1. You can execute commands by entering them in the command window after the MATLAB prompt (>>) and pressing the Enter key.
 
@@ -150,74 +150,88 @@ Try this now! Use the Up arrow to recall the command y = m/2, then press Enter. 
 
 #### Commands
 Enter commands in MATLAB to perform calculations and create variables.
-> Entering Commands
-> Naming Variables
-> Saving and Loading Variables
-> Using Built-in Functions and Constants
-3. **MATLAB Desktop and Editor**
+> **Entering Commands**
+> **Naming Variables**
+> **Saving and Loading Variables**
+> **Using Built-in Functions and Constants**
+
+#### MATLAB Desktop and Editor
 
 Write and save your own MATLAB programs.
-> MATLAB Desktop and Editor
-> The MATLAB Editor
-> Running Scripts
-4. **Vectors and Matrices**
+> **MATLAB Desktop and Editor**
+> **The MATLAB Editor**
+> **Running Scripts**
+
+#### Vectors and Matrices
 
 Create MATLAB variables that contain multiple elements.
-> Manually Entering Arrays
-> Creating Evenly-Spaced Vectors
-> Array Creation Functions
-5. **Indexing into and Modifying Arrays**
+> **Manually Entering Arrays**
+> **Creating Evenly-Spaced Vectors**
+> **Array Creation Functions**
+
+#### Indexing into and Modifying Arrays
 
 Use indexing to extract and modify rows, columns, and elements of MATLAB arrays.
-> Indexing into Arrays
-> Extracting Multiple Elements
-> Changing Values in Arrays
-6. **Array Calculations**
+> **Indexing into Arrays**
+> **Extracting Multiple Elements**
+> **Changing Values in Arrays**
+
+#### Array Calculations
 
 Perform calculations on entire arrays at once.
-> Performing Array Operations on Vectors
-7. **Calling Functions**
+> **Performing Array Operations on Vectors**
+
+#### Calling Functions
 
 Call functions to obtain multiple outputs.
-> Obtaining Multiple Outputs from Function Calls
-8. **Obtaining Help**
+> **Obtaining Multiple Outputs from Function Calls**
+
+#### Obtaining Help
 
 Use the MATLAB documentation to discover information about MATLAB features.
-> Obtaining Help
-9. **Plotting Data**
+> **Obtaining Help**
+
+#### Plotting Data
 
 Visualize variables using MATLAB's plotting functions.
-> Plotting Vectors
-> Annotating Plots
-10. **Review Problems**
+> **Plotting Vectors**
+> **Annotating Plots**
+
+#### Review Problems
 
 Bring together concepts that you have learned with a project.
-> Project - Electricity Usage
-> Project - Audio Frequency
-11. **Importing Data**
+> **Project - Electricity Usage**
+> **Project - Audio Frequency**
+
+#### Importing Data
 
 Bring data from external files into MATLAB.
-> Import Tool
-> Importing Data as a Table
-12. **Logical Arrays**
+> **Import Tool**
+> **Importing Data as a Table**
+
+#### Logical Arrays
 
 Use logical expressions to help you to extract elements of interest from MATLAB arrays.
-> Logical Indexing
-13. **Programming**
+
+#### Logical Indexing
+
+#### Programming
 
 Write programs that execute code based upon some condition.
-> Programming Constructs
-> Decision Branching
-> For Loops
-14. **Final Project**
+> **Programming Constructs**
+> **Decision Branching**
+> **For Loops**
+
+#### Final Project
 
 Bring together concepts that you have learned with a project.
-> Project - Stellar Motion
-> Project - Stellar Motion II
-15. **Conclusion**
+> **Project - Stellar Motion**
+> **Project - Stellar Motion II**
+
+#### Conclusion
 
 Learn next steps and give feedback on the course.
-> Additional Resources
+> **Additional Resources**
 
 ### Simulink-Onramp
 ### Machine-Learning-Onramp
