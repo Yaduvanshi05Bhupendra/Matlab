@@ -88,12 +88,62 @@
 ## Matlab-Mini-Projects
 
 ### MATLAB-Onramp
-1. **Course Overview**
+#### Course Overview
 
 Familiarize yourself with the course.
 > Course Overview
-2. **Commands**
 
+1. You can execute commands by entering them in the command window after the MATLAB prompt (>>) and pressing the Enter key.
+**TASK**
+
+Multiply the numbers 3 and 5 together with the command 3*5.
+
+2. Unless otherwise specified, MATLAB stores calculations in a variable named ans.
+
+>> 7 + 3 ans = 10
+**TASK**
+
+Assign the 3*5 calculation to a variable named m as shown: m = 3*5
+
+3. The equals sign (=) in MATLAB is the assignment operator, meaning that the expression on the right of the equals sign is assigned to the variable on the left.
+
+When you enter x = 3 + 4, MATLAB first evaluates 3 + 4 and then assigns the result (7) to the variable x.
+**TASK**
+
+Enter the command m = m + 1 to see what happens.
+
+4. Notice that the Workspace window (on the right) shows all the variables currently in the workspace.
+**TASK**
+
+Create a variable named y that has the value m/2.
+
+5. When you enter a command without a semicolon at the end, MATLAB displays the result in the command prompt.
+>> x = 5 + 1
+x = 6
+If you add a semicolon to the end of a command, the result will not be displayed. The command will still be executed, as you can see in the workspace.
+>> x = 5 + 1;
+
+**TASK**
+Enter k = 8 - 2; with a semicolon at the end.
+
+The result won't appear in the command prompt, but you can see the value in the Workspace window.
+
+6. You can recall previous commands by pressing the Up arrow key on your keyboard. Note that the Command Window must be the active window for this to work.
+**TASK**
+
+Press the Up arrow to return to the command m = 3*5 and edit the command to be m = 3*k
+
+7. When you enter just a variable name at the command prompt, MATLAB returns the current value of that variable.
+**TASK**
+
+The value of y was calculated using m. Was y recalculated when m was modified?
+Enter just the variable name y at the command prompt (and press Enter).
+
+8. The value of y was unchanged because MATLAB does not rerun previous commands in the Command Window.
+If you want to recalculate y after m is modified, you need to repeat the command y = m/2.
+Try this now! Use the Up arrow to recall the command y = m/2, then press Enter. To see the new value of y, remember not to use a semicolon at the end of the command.
+
+#### Commands
 Enter commands in MATLAB to perform calculations and create variables.
 > Entering Commands
 > Naming Variables
